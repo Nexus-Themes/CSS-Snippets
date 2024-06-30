@@ -1,0 +1,57 @@
+.accountProfilePopoutWrapper_b2ca13 .username_ad5fac {
+  padding-top: 15px;
+  margin-bottom: -20px; }
+
+.accountProfilePopoutWrapper_b2ca13 .activityBiteSizePopout_d5089b {
+  display: var(--show-activity);
+  padding: 5px !important;
+  border: solid 1px var(--accent-color) !important;
+  border-radius: 12px !important; }
+  .accountProfilePopoutWrapper_b2ca13 .activityBiteSizePopout_d5089b [class^=header] {
+    scale: 0.95;
+    justify-content: center; }
+
+.accountProfilePopoutWrapper_b2ca13 .biteSizeOverlayBackground_c69a7b {
+  border: solid 1px var(--accent-color) !important;
+  border-radius: 12px !important;
+  padding: 0px !important; }
+
+.accountProfilePopoutWrapper_b2ca13 .menu_d90b3d, .accountProfilePopoutWrapper_b2ca13 .scroller_d90b3d {
+  padding: 0 !important; }
+
+.accountProfilePopoutWrapper_b2ca13 .statusBubbleOuter_d0a252 {
+  background: var(--accent-color); }
+  .accountProfilePopoutWrapper_b2ca13 .statusBubbleOuter_d0a252:before, .accountProfilePopoutWrapper_b2ca13 .statusBubbleOuter_d0a252:after {
+    border: solid 1px var(--accent-color) !important; }
+
+.accountProfilePopoutWrapper_b2ca13 .content_d0a252 .defaultColor_a595eb {
+  font-size: 0px; }
+  .accountProfilePopoutWrapper_b2ca13 .content_d0a252 .defaultColor_a595eb:before {
+    content: "I'm thinking about...";
+    color: var(--text-muted) !important;
+    font-size: 15px; }
+
+.accountProfilePopoutWrapper_b2ca13 .userPopoutOuter_c69a7b.userProfileOuter_c69a7b {
+  width: 300px !important;
+  background: linear-gradient(var(--accent-color) 30%, color-mix(in srgb, var(--secondary-color) 20%, var(--mode))) !important;
+  border-radius: 12px !important; }
+
+.accountProfilePopoutWrapper_b2ca13 .userPopoutInner_c69a7b {
+  max-height: 100%;
+  width: 300px !important;
+  gap: 0px;
+  padding-bottom: 0px;
+  background: linear-gradient(var(--secondary-color), color-mix(in srgb, var(--accent-color) 80%, var(--mode))) !important;
+  border-radius: 12px !important; }
+
+.accountProfilePopoutWrapper_b2ca13 .descriptionClamp_fc5c48,
+.accountProfilePopoutWrapper_b2ca13 .viewFullBio_fc5c48,
+.accountProfilePopoutWrapper_b2ca13 .tags_c32acf,
+.accountProfilePopoutWrapper_b2ca13 .userPopoutInner_c69a7b:before,
+.accountProfilePopoutWrapper_b2ca13 .profileEffects_f867f9 {
+  display: none; }
+
+.custom-profile-theme .statusBubble_d0a252,
+.custom-profile-theme .statusBubbleOuter_d0a252:before,
+.custom-profile-theme .statusBubbleOuter_d0a252:after {
+  background: color-mix(in srgb, var(--accent-color) 70%, var(--mode)) !important; }
